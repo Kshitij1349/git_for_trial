@@ -1,2 +1,4 @@
 Hello this is the file
 quit
+THis is the new content
+\
